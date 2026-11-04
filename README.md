@@ -122,42 +122,9 @@ Selavu/
 
 ---
 
-## 🚀 How to Run the Project
-
-### Option A: Using Android Studio (Recommended)
-1. Open **Android Studio** (Hedgehog 2023.1.1 or newer recommended).
-2. Select **Open** and choose this project folder: `C:\Users\ASUS\Music\Selavu`.
-3. Wait for Android Studio to sync the Gradle project automatically.
-4. Select an Android Emulator (API 26+) or a connected physical Android device.
-5. Click the green **Run** button (or press `Shift + F10`).
-
-### Option B: Using Command Line (Gradle)
-Make sure you have JDK 17+ and the Android SDK configured:
-```bash
-# Windows
-.\gradlew.bat installDebug
-
-# Linux / macOS
-./gradlew installDebug
-```
-
----
-
-## 📦 How to Build the APK
-
-To assemble the debug APK:
-
-```bash
-# Windows Command Line / PowerShell
-.\gradlew.bat assembleDebug
-
-# Linux / macOS
-./gradlew assembleDebug
-```
-
 ### 📍 Location of Generated APK:
 Once the build completes, the output APK will be located at:
 ```
-app\build\outputs\apk\debug\app-debug.apk
+debug\Selavu.apk
 ```
 
