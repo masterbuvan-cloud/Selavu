@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_primary">#0F2942</color>
+    <color name="navy_secondary">#1E3A5F</color>
+    <color name="green_accent">#10B981</color>
+    <color name="green_accent_soft">#D1FAE5</color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_dark">#0F172A</color>
+    <color name="text_muted">#64748B</color>
+</resources>
+

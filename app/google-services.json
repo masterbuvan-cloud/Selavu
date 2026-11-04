@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543539333845",
+    "project_id": "selavu-65dda",
+    "storage_bucket": "selavu-65dda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543539333845:android:1284edd083276a09e9705c",
+        "android_client_info": {
+          "package_name": "com.selavu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1B_IA4DTUxB1ZHnvgMQZYAim9-sHe6HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
